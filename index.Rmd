@@ -1,0 +1,30 @@
+---
+title: "Kirina Sirohi"
+image: "kirina.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kirina-sirohi/"
+  - label: GitHub
+    url: "https://github.com/ksirohi7/"
+  - label: Email
+    url: "mailto:kinu.sirohi@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hi! My name is Kirina and I am a third year student at Cal Poly, San Luis Obispo, pursuing a degree in Statistics and a minor in Data Science. As a highly motivated, quantitative and qualitative focused young leader, my interests lie in discovering business opportunities through data and statistical analysis and ensuring data integrity. I am intrigued by how you can take data that is not necessarily useful on its own and combine it using different statistical techniques to create models and insights that help businesses make critical decisions. 
+
+## Education
+
+**California Polytechnic State University** | San Luis Obispo, CA
+
+B.S. in Statistics, Minor in Data Science | September 2020 - June 2024
+
+
+## Experience
+
+**The PCCTC at Memorial Sloan Kettering** | Data Science Intern | June 2022 - August 2022
+
+**FYPM** | Data Science Intern | June 2021 - September 2021
