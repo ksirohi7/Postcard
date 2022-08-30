@@ -8,6 +8,8 @@ links:
     url: "https://github.com/ksirohi7/"
   - label: Email
     url: "mailto:kinu.sirohi@gmail.com"
+  - label: Blog Post
+    url: "https://www.pipinghotdata.com/posts/2022-08-30-my-4-biggest-internship-takeaways/"
 output:
   postcards::trestles
 ---
