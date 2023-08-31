@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-Hi! My name is Kirina and I am a third year student at Cal Poly, San Luis Obispo, pursuing a degree in Statistics and double minoring in Data Science and Actuarial Science. As a highly motivated, quantitative and qualitative focused young leader, my interests lie in discovering business opportunities through data and statistical analysis and ensuring data integrity. I am intrigued by how you can take data that is not necessarily useful on its own and combine it using different statistical techniques to create models and insights that help businesses make critical decisions. 
+Hi! My name is Kirina and I am a fourth year student at Cal Poly, San Luis Obispo, pursuing a degree in Statistics and double minoring in Data Science and Actuarial Science. As a highly motivated, quantitative and qualitative focused young leader, my interests lie in discovering business opportunities through data and statistical analysis and ensuring data integrity. I am intrigued by how you can take data that is not necessarily useful on its own and combine it using different statistical techniques to create models and insights that help businesses make critical decisions. 
 
 ## Education
 
