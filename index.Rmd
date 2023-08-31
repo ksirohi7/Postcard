@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-Hi! My name is Kirina and I am a third year student at Cal Poly, San Luis Obispo, pursuing a degree in Statistics and a minor in Data Science. As a highly motivated, quantitative and qualitative focused young leader, my interests lie in discovering business opportunities through data and statistical analysis and ensuring data integrity. I am intrigued by how you can take data that is not necessarily useful on its own and combine it using different statistical techniques to create models and insights that help businesses make critical decisions. 
+Hi! My name is Kirina and I am a third year student at Cal Poly, San Luis Obispo, pursuing a degree in Statistics and double minoring in Data Science and Actuarial Science. As a highly motivated, quantitative and qualitative focused young leader, my interests lie in discovering business opportunities through data and statistical analysis and ensuring data integrity. I am intrigued by how you can take data that is not necessarily useful on its own and combine it using different statistical techniques to create models and insights that help businesses make critical decisions. 
 
 ## Education
 
@@ -27,6 +27,8 @@ B.S. in Statistics, Minor in Data Science | September 2020 - June 2024
 
 ## Experience
 
+**Pfizer** | Data Science Intern | June 2023 - August 2023
+
 **The PCCTC at Memorial Sloan Kettering** | Data Science Intern | June 2022 - August 2022
 
-**FYPM** | Data Science Intern | June 2021 - September 2021
+**FYPM** | Data Science Intern | June 2021 - August 2021
